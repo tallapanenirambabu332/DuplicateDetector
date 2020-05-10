@@ -36,7 +36,7 @@ sudo docker images
 ```
 run docker container from created image 
 ```docker
-sudo docker run --rm dd-2
+sudo docker run --rm dd_1
 ```
 ## Out put
 after running container the expected output should be
